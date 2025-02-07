@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anda Beshr</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E34C26&width=435&lines=Hello%2C+There+;This+is+Anda+...;Nice+to+meet+you+!" alt="Typing SVG" /></a>
 <h3 align="center">Frontend Developer (Angular)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anda8&label=Profile%20views&color=0e75b6&style=flat" alt="anda8" /> </p>
