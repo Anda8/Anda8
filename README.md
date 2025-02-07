@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=700&color=E34C26&center=true&width=100%&lines=Hello%2C+There!;This+is+Anda+...;Nice+to+meet+you+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=700&color=E34C26&center=true&width=600&lines=Hello%2C+There!;This+is+Anda+...;Nice+to+meet+you+!" alt="Typing SVG" /></a>
 <h3 align="center">Frontend Developer (Angular)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anda8&label=Profile%20views&color=0e75b6&style=flat" alt="anda8" /> </p>
