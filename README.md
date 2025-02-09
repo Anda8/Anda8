@@ -58,24 +58,28 @@ I'm a passionate **Front-End Developer** from **Egypt**
 ### Frontend development:
 &emsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?&logo=angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=Bootstrap)
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-000?&logo=Responsive-Design)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?&logo=TailwindCSS)
 
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 
-### Services & Frameworks: 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=Bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?&logo=TailwindCSS)
-
+### Services & Frameworks:
 &emsp;
+![JSON API](https://img.shields.io/badge/-JSON%20API-000?&logo=json)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-000?&logo=codewars)
 
 
 <!--
