@@ -10,6 +10,7 @@
 <!-- <h3 align="center">Frontend Developer (Angular)</h3> -->
 
 <!--
+Profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anda8&label=Profile%20views&color=0e75b6&style=flat" alt="anda8" /> </p>
 -->
 
